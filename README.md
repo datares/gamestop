@@ -2,7 +2,7 @@
 
 WRITE A NICE INTRO HERE
 
-Contributors: [Rachel Li](https://github.com/rachelli99), [Anish Dulla](https://github.com/AnishDulla), [Anika Chakrabarti](https://github.com/anika-chak), Zoey Meng, [Ojas Bardiya](https://github.com/Ojasbardiya11).
+Contributors: [Rachel Li](https://github.com/rachelli99), [Anish Dulla](https://github.com/AnishDulla), [Anika Chakrabarti](https://github.com/anika-chak), [Zoey Meng](https://github.com/zoeymengg), [Ojas Bardiya](https://github.com/Ojasbardiya11).
 
 # Data
 The data primarily used to develop our Medium article came from [here](https://www.kaggle.com/ashaheedq/video-games-sales-2019). EXPLAIN THE SOURCE OF DATASET HERE.
