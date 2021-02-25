@@ -37,6 +37,8 @@ Our analysis and code can be found in the the [analysis folder](https://github.c
 The first question we investigated was the popularity of genres. We answered this question different visualizations by examining total sales by genre, total sales by different genre published, as well as total sales by genre by region. 
 
 ### Who are the most active publishers
+The second question we investigated ...
+
 ### Machine Learning Model to predict [SOMETHING] 
 
 
