@@ -39,7 +39,7 @@ The first question we investigated was the popularity of genres. We answered thi
 ### Who are the most active publishers
 The second question we investigated ...
 
-### Machine Learning Model to predict [SOMETHING] 
+### Machine Learning Models to predict critic score classifications!
 
 
 
