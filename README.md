@@ -37,9 +37,10 @@ Our analysis and code can be found in the the [analysis folder](https://github.c
 The first question we investigated was the popularity of genres. We answered this question different visualizations by examining total sales by genre, total sales by different genre published, as well as total sales by genre by region. 
 
 ### Who are the most active publishers
-The second question we investigated ...
+The second question we investigated was who were the most popular publishers overtime. To answer this question, we took a look at the top 10 publishers since there didn't seem to any major publishers. Among the 10 top publisher we graphed, there is approximately an equal share of market. 
 
-### Machine Learning Models to predict critic score classifications!
+### Machine Learning models to predict critic score classifications!
+The last question we asked ourselves was can we build a machine learning model that predict the critic score given a set of parameters. We tried various models such as linear regression, logistic regression, k-nearest neighbor, and random forest. In the end, we were able to build a model that achieves approximately 70% accuracy. 
 
 
 
