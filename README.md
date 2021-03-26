@@ -1,6 +1,6 @@
 # Video Game Sales Analysis
 
-Nowadays, video games play a major role in many parts of our lives. It helps us destress, improves our social skills, enhances our memory and cognitive abilities, and makes us more productive. Team GameStop investigated global video sales to take a deeper look into the data and underlying information. Our article can be found (ADD LINK LATERs). 
+Nowadays, video games play a major role in many parts of our lives. It helps us destress, improves our social skills, enhances our memory and cognitive abilities, and makes us more productive. Team GameStop investigated global video sales to take a deeper look into the data and underlying information. Feel free to read our article, [Unraveling the Games Among Us](https://ucladatares.medium.com/unraveling-the-games-among-us-79eedb26835c). 
 
 Contributors: [Rachel Li](https://github.com/rachelli99), [Anish Dulla](https://github.com/AnishDulla), [Anika Chakrabarti](https://github.com/anika-chak), [Zoey Meng](https://github.com/zoeymengg), [Ojas Bardiya](https://github.com/Ojasbardiya11).
 
